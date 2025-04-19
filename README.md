@@ -1,4 +1,4 @@
-# 🧠 VS Code Go Debug Launcher Generator
+# 🧠 VSCode Go Debug Launcher Generator
 
 A lightweight and intelligent Go script that automatically generates `launch.json` configurations for debugging Go applications in Visual Studio Code — supporting multiple entry points and compound debugging with ease.
 
